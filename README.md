@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JjYzc4Z3F2Z2R3Nng2M256M3J4ZHAxbGo2ZWtzemp6NWtrbXkzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="Header GIF">
+
+  
   <h1>𝓗𝓲 :wave: 𝓘'𝓶 𝓐𝓷𝓭𝓻𝓲𝓲</h1>
 
   <h2>𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 :speech_balloon: </h2>
